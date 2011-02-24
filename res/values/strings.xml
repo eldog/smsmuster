@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="enter_text">Enter a number to test a text from:</string>
-    <string name="app_name">SMSMuster</string>
+    <string name="enter_text">Select to start or stop the server</string>
+    <string name="app_name">Where\'s Safe</string>
     
-    <string name="send_test_text">Send Test Text</string>
+    <string name="send_test_text">Start SMS Server</string>
+    <string name="stop_server_text">Stop SMS Server</string>
 </resources>
